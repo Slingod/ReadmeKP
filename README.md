@@ -18,8 +18,9 @@ Ce projet est une plateforme e-commerce développée avec **Ruby on Rails 8.0.1*
 ## Maquette du projet
 
 Vous pouvez consulter la maquette du projet en suivant ce lien :  
-[OverFlow Whimsical](https://whimsical.com/kiten-project-AHHzuD6TwMHcV5BFaD4gUu)
+[Overflow Whimsical](https://whimsical.com/kiten-project-AHHzuD6TwMHcV5BFaD4gUu)
 [Maquette Whimsical](https://whimsical.com/kitten2wireframe-WPbpQbpewkZgZv5faFrJUY)
+
 ---
 
 ## Fonctionnalités
